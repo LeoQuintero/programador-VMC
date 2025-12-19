@@ -5,3 +5,241 @@ fecha_asignacion,semana_texto,id_hermano,nombre_hermano,tipo_asignacion,sala
 2026-01-05,5-11 DE ENERO,101,María Montañez,Maestros,Principal
 2026-01-05,5-11 DE ENERO,71,Marisol Vargas,Ayudante,Principal
 2026-01-05,5-11 DE ENERO,8,Jimmy Pacheco,Maestros,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,3,Cesar Hernandez,Presidente,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,17,Juan Carlos Riaño,Oracion_Inicio,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,85,Fernando Burgos,Tesoros,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,81,Hernando Castro,Perlas,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,51,Daniel Gonzalez,Lectura,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,41,Isabel Salamanca,Maestros,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,69,Edilma Lozano,Ayudante,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,42,Elvira Toasura,Maestros,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,65,Liliana Gonzalez,Ayudante,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,94,Emiliano Quintero,Maestros,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,49,Mauricio Rincón,Ayudante,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,3,Cesar Hernandez,NVC,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,23,Edwin Quintero,Estudio_Libro,Principal
+2025-09-01,1-7 DE SEPTIEMBRE,8,Jimmy Pacheco,Oracion_Final,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,11,James Cabieles,Presidente,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,7,Jorge Alba,Oracion_Inicio,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,102,Juan Pablo Alfonso,Tesoros,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,92,Manuel Céspedes,Perlas,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,10,Juan Felipe Morales,Lectura,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,62,Carolina Aguilar,Maestros,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,45,Milena Quintero,Ayudante,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,40,Flor Merchán,Maestros,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,66,Dianne Grosso,Ayudante,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,47,John Herrera,Maestros,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,26,Henry Rodriguez,NVC,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,11,James Cabieles,NVC,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,9,Ricardo Morales,Estudio_Libro,Principal
+2025-09-08,8-14 DE SEPTIEMBRE,92,Manuel Céspedes,Oracion_Final,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,9,Ricardo Morales,Presidente,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,94,Emiliano Quintero,Oracion_Inicio,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,17,Juan Carlos Riaño,Perlas,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,34,Orlando Fagua,Lectura,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,30,Dora Mendoza,Maestros,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,37,Kimberly Cabieles,Ayudante,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,57,Laura Diaz,Maestros,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,60,Nelcy Barajas,Ayudante,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,12,Natalia Cabieles,Maestros,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,54,Nicol Marin,Ayudante,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,27,Gustavo Ramirez,NVC,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,3,Cesar Hernandez,NVC,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,58,William Diaz,Estudio_Libro,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,23,Edwin Quintero,Lector_Libro,Principal
+2025-09-15,15-21 DE SEPTIEMBRE,26,Henry Rodriguez,Oracion_Final,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,6,Armando Toasura,Presidente,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,7,Jorge Alba,Oracion_Inicio,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,58,William Diaz,Tesoros,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,22,Vicente Castro,Perlas,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,87,Juan Manuel Burgos,Lectura,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,52,Nubia Barreto,Maestros,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,83,Yaneth Ramirez,Ayudante,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,64,Paola Gonzalez,Maestros,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,61,Sandra Gonzalez,Maestros,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,25,Raquel Quintero,Ayudante,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,55,Pilar Cáceres,Maestros,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,82,Blanca Quintero,Ayudante,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,23,Edwin Quintero,NVC,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,11,James Cabieles,Estudio_Libro,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,7,Jorge Alba,Lector_Libro,Principal
+2025-09-22,22-28 DE SEPTIEMBRE,49,Mauricio Rincón,Oracion_Final,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,27,Gustavo Ramirez,Presidente,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,8,Jimmy Pacheco,Perlas,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,95,Alejandro Niño,Lectura,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,103,Susan Orjuela,Maestros,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,5,Sulay Garcia,Ayudante,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,20,Yuly Gonzalez,Maestros,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,86,Ligia Burgos,Ayudante,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,49,Mauricio Rincón,Maestros,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,102,Juan Pablo Alfonso,Estudio_Libro,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,24,Guillermo Quintero,Lector_Libro,Principal
+2025-09-29,29 DE SEPTIEMBRE A 5 DE OCTUBRE,102,Juan Pablo Alfonso,Oracion_Final,Principal
+2025-10-06,6-12 DE OCTUBRE,58,William Diaz,Presidente,Principal
+2025-10-06,6-12 DE OCTUBRE,6,Armando Toasura,Oracion_Inicio,Principal
+2025-10-06,6-12 DE OCTUBRE,11,James Cabieles,Tesoros,Principal
+2025-10-06,6-12 DE OCTUBRE,91,Stevan Barajas,Lectura,Principal
+2025-10-06,6-12 DE OCTUBRE,94,Emiliano Quintero,Maestros,Principal
+2025-10-06,6-12 DE OCTUBRE,106,German García,Ayudante,Principal
+2025-10-06,6-12 DE OCTUBRE,39,Graciela Pacheco,Maestros,Principal
+2025-10-06,6-12 DE OCTUBRE,76,Blanca Rodriguez,Ayudante,Principal
+2025-10-06,6-12 DE OCTUBRE,100,Adriana Cano,Maestros,Principal
+2025-10-06,6-12 DE OCTUBRE,35,Jacqueline Cabieles,Ayudante,Principal
+2025-10-06,6-12 DE OCTUBRE,43,Alcira Ramirez,Maestros,Principal
+2025-10-06,6-12 DE OCTUBRE,73,Juliana Mayorga,Ayudante,Principal
+2025-10-06,6-12 DE OCTUBRE,9,Ricardo Morales,NVC,Principal
+2025-10-06,6-12 DE OCTUBRE,17,Juan Carlos Riaño,Estudio_Libro,Principal
+2026-01-13,13-19 ASAMBLEA,32,Emiliano Pacheco,Lectura,Principal
+2026-01-13,13-19 ASAMBLEA,82,Blanca Quintero,Maestros,Principal
+2026-01-13,13-19 ASAMBLEA,74,Luz Estella Hernandez Ruiz,Ayudante,Principal
+2026-01-13,13-19 ASAMBLEA,96,Valentina Arias,Maestros,Principal
+2026-01-13,13-19 ASAMBLEA,101,María Montañez,Ayudante,Principal
+2026-01-13,13-19 ASAMBLEA,91,Stevan Barajas,Maestros,Principal
+2026-01-13,13-19 ASAMBLEA,98,Andrés Cárdenas,Ayudante,Principal
+2026-01-13,13-19 ASAMBLEA,44,Sara Silva,Maestros,Principal
+2026-01-13,13-19 ASAMBLEA,67,Fernanda Herrera,Ayudante,Principal
+2025-10-20,20-26 DE OCTUBRE,23,Edwin Quintero,Presidente,Principal
+2025-10-20,20-26 DE OCTUBRE,9,Ricardo Morales,Tesoros,Principal
+2025-10-20,20-26 DE OCTUBRE,85,Fernando Burgos,Perlas,Principal
+2025-10-20,20-26 DE OCTUBRE,89,Jose Moyano,Lectura,Principal
+2025-10-20,20-26 DE OCTUBRE,105,Carolina Rojas,Maestros,Principal
+2025-10-20,20-26 DE OCTUBRE,72,Sofia Ladino,Ayudante,Principal
+2025-10-20,20-26 DE OCTUBRE,21,Catherina De Millán,Maestros,Principal
+2025-10-20,20-26 DE OCTUBRE,48,Tania Herrera,Ayudante,Principal
+2025-10-20,20-26 DE OCTUBRE,45,Milena Quintero,Maestros,Principal
+2025-10-20,20-26 DE OCTUBRE,28,Beatriz Faura,Ayudante,Principal
+2025-10-20,20-26 DE OCTUBRE,6,Armando Toasura,NVC,Principal
+2025-10-20,20-26 DE OCTUBRE,3,Cesar Hernandez,Estudio_Libro,Principal
+2025-10-20,20-26 DE OCTUBRE,102,Juan Pablo Alfonso,Lector_Libro,Principal
+2025-10-20,20-26 DE OCTUBRE,27,Gustavo Ramirez,Oracion_Final,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,23,Edwin Quintero,Oracion_Inicio,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,17,Juan Carlos Riaño,Tesoros,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,27,Gustavo Ramirez,Perlas,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,97,Jerónimo Parra,Lectura,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,36,Valery Cabieles,Ayudante,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,29,Clara Parra,Maestros,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,74,Luz Estella Hernandez Ruiz,Ayudante,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,19,Felipe Gonzalez,Maestros,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,26,Henry Rodriguez,NVC,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,58,William Diaz,Lector_Libro,Principal
+2025-10-27,27 DE OCTUBRE A 2 DE NOVIEMBRE,22,Vicente Castro,Oracion_Final,Principal
+2025-11-03,3-9 DE NOVIEMBRE,3,Cesar Hernandez,Presidente,Principal
+2025-11-03,3-9 DE NOVIEMBRE,11,James Cabieles,Oracion_Inicio,Principal
+2025-11-03,3-9 DE NOVIEMBRE,26,Henry Rodriguez,Tesoros,Principal
+2025-11-03,3-9 DE NOVIEMBRE,81,Hernando Castro,Perlas,Principal
+2025-11-03,3-9 DE NOVIEMBRE,32,Emiliano Pacheco,Lectura,Principal
+2025-11-03,3-9 DE NOVIEMBRE,71,Marisol Vargas,Maestros,Principal
+2025-11-03,3-9 DE NOVIEMBRE,96,Valentina Arias,Ayudante,Principal
+2025-11-03,3-9 DE NOVIEMBRE,66,Dianne Grosso,Maestros,Principal
+2025-11-03,3-9 DE NOVIEMBRE,56,Eliana Alfonso,Ayudante,Principal
+2025-11-03,3-9 DE NOVIEMBRE,69,Edilma Lozano,Maestros,Principal
+2025-11-03,3-9 DE NOVIEMBRE,101,María Montañez,Ayudante,Principal
+2025-11-03,3-9 DE NOVIEMBRE,23,Edwin Quintero,NVC,Principal
+2025-11-03,3-9 DE NOVIEMBRE,27,Gustavo Ramirez,Estudio_Libro,Principal
+2025-11-03,3-9 DE NOVIEMBRE,9,Ricardo Morales,Lector_Libro,Principal
+2025-11-03,3-9 DE NOVIEMBRE,17,Juan Carlos Riaño,Oracion_Final,Principal
+2025-11-10,10-16 DE NOVIEMBRE,17,Juan Carlos Riaño,Presidente,Principal
+2025-11-10,10-16 DE NOVIEMBRE,9,Ricardo Morales,Oracion_Inicio,Principal
+2025-11-10,10-16 DE NOVIEMBRE,102,Juan Pablo Alfonso,Tesoros,Principal
+2025-11-10,10-16 DE NOVIEMBRE,58,William Diaz,Perlas,Principal
+2025-11-10,10-16 DE NOVIEMBRE,24,Guillermo Quintero,Lectura,Principal
+2025-11-10,10-16 DE NOVIEMBRE,41,Isabel Salamanca,Maestros,Principal
+2025-11-10,10-16 DE NOVIEMBRE,12,Natalia Cabieles,Ayudante,Principal
+2025-11-10,10-16 DE NOVIEMBRE,67,Fernanda Herrera,Maestros,Principal
+2025-11-10,10-16 DE NOVIEMBRE,57,Laura Diaz,Ayudante,Principal
+2025-11-10,10-16 DE NOVIEMBRE,4,Paul Garcia,Maestros,Principal
+2025-11-10,10-16 DE NOVIEMBRE,27,Gustavo Ramirez,NVC,Principal
+2025-11-10,10-16 DE NOVIEMBRE,22,Vicente Castro,Oracion_Final,Principal
+2025-11-17,17-23 DE NOVIEMBRE,8,Jimmy Pacheco,Oracion_Inicio,Principal
+2025-11-17,17-23 DE NOVIEMBRE,23,Edwin Quintero,Tesoros,Principal
+2025-11-17,17-23 DE NOVIEMBRE,92,Manuel Céspedes,Perlas,Principal
+2025-11-17,17-23 DE NOVIEMBRE,94,Emiliano Quintero,Lectura,Principal
+2025-11-17,17-23 DE NOVIEMBRE,107,Margoth Ortiz Niño,Maestros,Principal
+2025-11-17,17-23 DE NOVIEMBRE,55,Pilar Cáceres,Ayudante,Principal
+2025-11-17,17-23 DE NOVIEMBRE,54,Nicol Marin,Maestros,Principal
+2025-11-17,17-23 DE NOVIEMBRE,40,Flor Merchán,Ayudante,Principal
+2025-11-17,17-23 DE NOVIEMBRE,44,Sara Silva,Maestros,Principal
+2025-11-17,17-23 DE NOVIEMBRE,64,Paola Gonzalez,Ayudante,Principal
+2025-11-17,17-23 DE NOVIEMBRE,37,Kimberly Cabieles,Maestros,Principal
+2025-11-17,17-23 DE NOVIEMBRE,48,Tania Herrera,Ayudante,Principal
+2025-11-17,17-23 DE NOVIEMBRE,3,Cesar Hernandez,NVC,Principal
+2025-11-17,17-23 DE NOVIEMBRE,6,Armando Toasura,Estudio_Libro,Principal
+2025-11-17,17-23 DE NOVIEMBRE,26,Henry Rodriguez,Lector_Libro,Principal
+2025-11-24,24-30 DE NOVIEMBRE,11,James Cabieles,Presidente,Principal
+2025-11-24,24-30 DE NOVIEMBRE,26,Henry Rodriguez,Oracion_Inicio,Principal
+2025-11-24,24-30 DE NOVIEMBRE,3,Cesar Hernandez,Tesoros,Principal
+2025-11-24,24-30 DE NOVIEMBRE,85,Fernando Burgos,Perlas,Principal
+2025-11-24,24-30 DE NOVIEMBRE,10,Juan Felipe Morales,Lectura,Principal
+2025-11-24,24-30 DE NOVIEMBRE,60,Nelcy Barajas,Maestros,Principal
+2025-11-24,24-30 DE NOVIEMBRE,42,Elvira Toasura,Ayudante,Principal
+2025-11-24,24-30 DE NOVIEMBRE,14,Claudia Calderón,Maestros,Principal
+2025-11-24,24-30 DE NOVIEMBRE,68,Miriam Herrera,Ayudante,Principal
+2025-11-24,24-30 DE NOVIEMBRE,7,Jorge Alba,Maestros,Principal
+2025-11-24,24-30 DE NOVIEMBRE,17,Juan Carlos Riaño,NVC,Principal
+2025-11-24,24-30 DE NOVIEMBRE,92,Manuel Céspedes,Oracion_Final,Principal
+2025-12-01,1-7 DE DICIEMBRE,9,Ricardo Morales,Presidente,Principal
+2025-12-01,1-7 DE DICIEMBRE,85,Fernando Burgos,Oracion_Inicio,Principal
+2025-12-01,1-7 DE DICIEMBRE,24,Guillermo Quintero,Perlas,Principal
+2025-12-01,1-7 DE DICIEMBRE,33,Andres Camilo Quintero,Lectura,Principal
+2025-12-01,1-7 DE DICIEMBRE,100,Adriana Cano,Maestros,Principal
+2025-12-01,1-7 DE DICIEMBRE,82,Blanca Quintero,Ayudante,Principal
+2025-12-01,1-7 DE DICIEMBRE,87,Juan Manuel Burgos,Maestros,Principal
+2025-12-01,1-7 DE DICIEMBRE,47,John Herrera,Ayudante,Principal
+2025-12-01,1-7 DE DICIEMBRE,25,Raquel Quintero,Maestros,Principal
+2025-12-01,1-7 DE DICIEMBRE,45,Milena Quintero,Ayudante,Principal
+2025-12-01,1-7 DE DICIEMBRE,9,Ricardo Morales,NVC,Principal
+2025-12-01,1-7 DE DICIEMBRE,17,Juan Carlos Riaño,Estudio_Libro,Principal
+2025-12-01,1-7 DE DICIEMBRE,3,Cesar Hernandez,Lector_Libro,Principal
+2025-12-01,1-7 DE DICIEMBRE,94,Emiliano Quintero,Oracion_Final,Principal
+2025-12-08,8-14 DE DICIEMBRE,23,Edwin Quintero,Presidente,Principal
+2025-12-08,8-14 DE DICIEMBRE,8,Jimmy Pacheco,Oracion_Inicio,Principal
+2025-12-08,8-14 DE DICIEMBRE,22,Vicente Castro,Perlas,Principal
+2025-12-08,8-14 DE DICIEMBRE,109,Enrique Parra,Lectura,Principal
+2025-12-08,8-14 DE DICIEMBRE,36,Valery Cabieles,Maestros,Principal
+2025-12-08,8-14 DE DICIEMBRE,105,Carolina Rojas,Ayudante,Principal
+2025-12-08,8-14 DE DICIEMBRE,75,Yaneth Alba,Maestros,Principal
+2025-12-08,8-14 DE DICIEMBRE,21,Catherina De Millán,Ayudante,Principal
+2025-12-08,8-14 DE DICIEMBRE,72,Sofia Ladino,Maestros,Principal
+2025-12-08,8-14 DE DICIEMBRE,62,Carolina Aguilar,Ayudante,Principal
+2025-12-08,8-14 DE DICIEMBRE,9,Ricardo Morales,Estudio_Libro,Principal
+2025-12-08,8-14 DE DICIEMBRE,11,James Cabieles,Lector_Libro,Principal
+2025-12-15,15-21 DE DICIEMBRE,102,Juan Pablo Alfonso,Presidente,Principal
+2025-12-15,15-21 DE DICIEMBRE,81,Hernando Castro,Oracion_Inicio,Principal
+2025-12-15,15-21 DE DICIEMBRE,26,Henry Rodriguez,Tesoros,Principal
+2025-12-15,15-21 DE DICIEMBRE,8,Jimmy Pacheco,Perlas,Principal
+2025-12-15,15-21 DE DICIEMBRE,99,Joel Pulido,Lectura,Principal
+2025-12-15,15-21 DE DICIEMBRE,43,Alcira Ramirez,Maestros,Principal
+2025-12-15,15-21 DE DICIEMBRE,42,Elvira Toasura,Ayudante,Principal
+2025-12-15,15-21 DE DICIEMBRE,63,Miriam Gomez,Maestros,Principal
+2025-12-15,15-21 DE DICIEMBRE,39,Graciela Pacheco,Ayudante,Principal
+2025-12-15,15-21 DE DICIEMBRE,73,Juliana Mayorga,Maestros,Principal
+2025-12-15,15-21 DE DICIEMBRE,103,Susan Orjuela,Ayudante,Principal
+2025-12-15,15-21 DE DICIEMBRE,85,Fernando Burgos,NVC,Principal
+2025-12-15,15-21 DE DICIEMBRE,102,Juan Pablo Alfonso,NVC,Principal
+2025-12-15,15-21 DE DICIEMBRE,11,James Cabieles,Estudio_Libro,Principal
+2025-12-15,15-21 DE DICIEMBRE,23,Edwin Quintero,Oracion_Final,Principal
+2025-12-22,22-28 DE DICIEMBRE,27,Gustavo Ramirez,Presidente,Principal
+2025-12-22,22-28 DE DICIEMBRE,24,Guillermo Quintero,Oracion_Inicio,Principal
+2025-12-22,22-28 DE DICIEMBRE,9,Ricardo Morales,Tesoros,Principal
+2025-12-22,22-28 DE DICIEMBRE,81,Hernando Castro,Perlas,Principal
+2025-12-22,22-28 DE DICIEMBRE,34,Orlando Fagua,Lectura,Principal
+2025-12-22,22-28 DE DICIEMBRE,76,Blanca Rodriguez,Maestros,Principal
+2025-12-22,22-28 DE DICIEMBRE,56,Eliana Alfonso,Ayudante,Principal
+2025-12-22,22-28 DE DICIEMBRE,57,Laura Diaz,Maestros,Principal
+2025-12-22,22-28 DE DICIEMBRE,43,Alcira Ramirez,Ayudante,Principal
+2025-12-22,22-28 DE DICIEMBRE,86,Ligia Burgos,Maestros,Principal
+2025-12-22,22-28 DE DICIEMBRE,83,Yaneth Ramirez,Ayudante,Principal
+2025-12-22,22-28 DE DICIEMBRE,3,Cesar Hernandez,NVC,Principal
+2025-12-22,22-28 DE DICIEMBRE,23,Edwin Quintero,Estudio_Libro,Principal
+2025-12-22,22-28 DE DICIEMBRE,85,Fernando Burgos,Lector_Libro,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,17,Juan Carlos Riaño,Tesoros,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,78,Harrison Cáceres,Lectura,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,5,Sulay Garcia,Maestros,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,20,Yuly Gonzalez,Ayudante,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,111,Giovana Cantillo,Maestros,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,35,Jacqueline Cabieles,Ayudante,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,19,Felipe Gonzalez,Maestros,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,26,Henry Rodriguez,NVC,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,58,William Diaz,Estudio_Libro,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,23,Edwin Quintero,Lector_Libro,Principal
+2025-12-29,29 DE DICIEMBRE DE 2025 A 4 DE ENERO DE 2026,49,Mauricio Rincón,Oracion_Final,Principal
