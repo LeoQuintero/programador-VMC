@@ -1,1 +1,4 @@
 *.xlsx
+*.gsheet
+*.gdoc
+*.gslides

@@ -4,81 +4,47 @@
         "partes": [
             {
                 "tipo": "Presidente",
-                "titulo": "Presidencia",
-                "requiere": "ANC",
-                "tiempo": 0
+                "titulo": "Presidente de la Reunión"
             },
             {
                 "tipo": "Oracion_Inicio",
-                "titulo": "Oración",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 5
+                "titulo": "Oración de inicio"
             },
             {
                 "tipo": "Tesoros",
-                "titulo": "",
-                "requiere": "ANC_SM",
-                "tiempo": 10
+                "titulo": ""
             },
             {
                 "tipo": "Perlas",
-                "titulo": "Perlas Escondidas",
-                "requiere": "ANC_SM",
-                "tiempo": 10
+                "titulo": "Busquemos Perlas Escondidas"
             },
             {
                 "tipo": "Lectura",
-                "titulo": "Is 19:1-12 (th lección 11).",
-                "requiere": "EST_VARON",
-                "tiempo": 4
+                "titulo": "Is 19:1-12 (th lección 11)."
             },
             {
                 "tipo": "Maestros",
-                "titulo": "4. Empiece conversaciones",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Empiece conversaciones"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "5. Haga revisitas",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Haga revisitas"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "6. Discurso",
-                "requiere": "EST_VARON",
-                "tiempo": 5
-            },
-            {
-                "tipo": "NVC",
-                "titulo": "7. Acuérdate de “la Roca de tu fortaleza”",
-                "requiere": "ANC_SM",
-                "tiempo": 15
-            },
-            {
-                "tipo": "NVC",
-                "titulo": "8. Esforcémonos por aprender de los amigos de Jehová todos los días",
-                "requiere": "ANC_SM",
-                "tiempo": 15
+                "titulo": " Discurso"
             },
             {
                 "tipo": "Estudio_Libro",
-                "titulo": "Estudio Bíblico",
-                "requiere": "ANC_SM",
-                "tiempo": 30
+                "titulo": "Estudio Bíblico de Congregación"
             },
             {
                 "tipo": "Lector_Libro",
-                "titulo": "Lectura EBC",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 0
+                "titulo": "Lectura del Estudio Bíblico"
             },
             {
                 "tipo": "Oracion_Final",
-                "titulo": "Oración",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 5
+                "titulo": "Oración de conclusión"
             }
         ]
     },
@@ -87,81 +53,51 @@
         "partes": [
             {
                 "tipo": "Presidente",
-                "titulo": "Presidencia",
-                "requiere": "ANC",
-                "tiempo": 0
+                "titulo": "Presidente de la Reunión"
             },
             {
                 "tipo": "Oracion_Inicio",
-                "titulo": "Oración",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 5
+                "titulo": "Oración de inicio"
             },
             {
                 "tipo": "Tesoros",
-                "titulo": "",
-                "requiere": "ANC_SM",
-                "tiempo": 10
+                "titulo": ""
             },
             {
                 "tipo": "Perlas",
-                "titulo": "Perlas Escondidas",
-                "requiere": "ANC_SM",
-                "tiempo": 10
+                "titulo": "Busquemos Perlas Escondidas"
             },
             {
                 "tipo": "Lectura",
-                "titulo": "Is 23:1-14 (th lección 5).",
-                "requiere": "EST_VARON",
-                "tiempo": 4
+                "titulo": "Is 23:1-14 (th lección 5)."
             },
             {
                 "tipo": "Maestros",
-                "titulo": "4. Empiece conversaciones",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Empiece conversaciones"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "5. Empiece conversaciones",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Empiece conversaciones"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "6. Haga revisitas",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Haga revisitas"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "7. Discurso",
-                "requiere": "EST_VARON",
-                "tiempo": 5
-            },
-            {
-                "tipo": "NVC",
-                "titulo": "8. Necesidades de la congregación",
-                "requiere": "ANC_SM",
-                "tiempo": 15
+                "titulo": " Discurso"
             },
             {
                 "tipo": "Estudio_Libro",
-                "titulo": "Estudio Bíblico",
-                "requiere": "ANC_SM",
-                "tiempo": 30
+                "titulo": "Estudio Bíblico de Congregación"
             },
             {
                 "tipo": "Lector_Libro",
-                "titulo": "Lectura EBC",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 0
+                "titulo": "Lectura del Estudio Bíblico"
             },
             {
                 "tipo": "Oracion_Final",
-                "titulo": "Oración",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 5
+                "titulo": "Oración de conclusión"
             }
         ]
     },
@@ -170,75 +106,47 @@
         "partes": [
             {
                 "tipo": "Presidente",
-                "titulo": "Presidencia",
-                "requiere": "ANC",
-                "tiempo": 0
+                "titulo": "Presidente de la Reunión"
             },
             {
                 "tipo": "Oracion_Inicio",
-                "titulo": "Oración",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 5
+                "titulo": "Oración de inicio"
             },
             {
                 "tipo": "Tesoros",
-                "titulo": "",
-                "requiere": "ANC_SM",
-                "tiempo": 10
+                "titulo": ""
             },
             {
                 "tipo": "Perlas",
-                "titulo": "Perlas Escondidas",
-                "requiere": "ANC_SM",
-                "tiempo": 10
+                "titulo": "Busquemos Perlas Escondidas"
             },
             {
                 "tipo": "Lectura",
-                "titulo": "Is 25:1-9 (th lección 10).",
-                "requiere": "EST_VARON",
-                "tiempo": 4
+                "titulo": "Is 25:1-9 (th lección 10)."
             },
             {
                 "tipo": "Maestros",
-                "titulo": "4. Empiece conversaciones",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Empiece conversaciones"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "5. Haga revisitas",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Haga revisitas"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "6. Explique sus creencias",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
-            },
-            {
-                "tipo": "NVC",
-                "titulo": "7. Apoyémonos en Jehová y preparémonos para cuando necesitemos atención médica o una operación",
-                "requiere": "ANC_SM",
-                "tiempo": 15
+                "titulo": " Explique sus creencias"
             },
             {
                 "tipo": "Estudio_Libro",
-                "titulo": "Estudio Bíblico",
-                "requiere": "ANC_SM",
-                "tiempo": 30
+                "titulo": "Estudio Bíblico de Congregación"
             },
             {
                 "tipo": "Lector_Libro",
-                "titulo": "Lectura EBC",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 0
+                "titulo": "Lectura del Estudio Bíblico"
             },
             {
                 "tipo": "Oracion_Final",
-                "titulo": "Oración",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 5
+                "titulo": "Oración de conclusión"
             }
         ]
     },
@@ -247,87 +155,51 @@
         "partes": [
             {
                 "tipo": "Presidente",
-                "titulo": "Presidencia",
-                "requiere": "ANC",
-                "tiempo": 0
+                "titulo": "Presidente de la Reunión"
             },
             {
                 "tipo": "Oracion_Inicio",
-                "titulo": "Oración",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 5
+                "titulo": "Oración de inicio"
             },
             {
                 "tipo": "Tesoros",
-                "titulo": "",
-                "requiere": "ANC_SM",
-                "tiempo": 10
+                "titulo": ""
             },
             {
                 "tipo": "Perlas",
-                "titulo": "Perlas Escondidas",
-                "requiere": "ANC_SM",
-                "tiempo": 10
+                "titulo": "Busquemos Perlas Escondidas"
             },
             {
                 "tipo": "Lectura",
-                "titulo": "Is 29:13-24 (th lección 2).",
-                "requiere": "EST_VARON",
-                "tiempo": 4
+                "titulo": "Is 29:13-24 (th lección 2)."
             },
             {
                 "tipo": "Maestros",
-                "titulo": "4. Empiece conversaciones",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Empiece conversaciones"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "5. Haga revisitas",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Haga revisitas"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "6. Haga discípulos",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
+                "titulo": " Haga discípulos"
             },
             {
                 "tipo": "Maestros",
-                "titulo": "7. Haga discípulos",
-                "requiere": "ESTUDIANTE",
-                "tiempo": 5
-            },
-            {
-                "tipo": "NVC",
-                "titulo": "8. “Yo siempre hago lo que a él le agrada”",
-                "requiere": "ANC_SM",
-                "tiempo": 15
-            },
-            {
-                "tipo": "NVC",
-                "titulo": "9. Necesidades de la congregación",
-                "requiere": "ANC_SM",
-                "tiempo": 15
+                "titulo": " Haga discípulos"
             },
             {
                 "tipo": "Estudio_Libro",
-                "titulo": "Estudio Bíblico",
-                "requiere": "ANC_SM",
-                "tiempo": 30
+                "titulo": "Estudio Bíblico de Congregación"
             },
             {
                 "tipo": "Lector_Libro",
-                "titulo": "Lectura EBC",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 0
+                "titulo": "Lectura del Estudio Bíblico"
             },
             {
                 "tipo": "Oracion_Final",
-                "titulo": "Oración",
-                "requiere": "H_BAUTIZADO",
-                "tiempo": 5
+                "titulo": "Oración de conclusión"
             }
         ]
     }
