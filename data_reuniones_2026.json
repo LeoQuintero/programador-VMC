@@ -1,6 +1,9 @@
 [
     {
         "semana": "5-11 DE ENERO",
+        "cancion_inicio": "2026",
+        "cancion_medio": "2026",
+        "cancion_final": "2026",
         "partes": [
             {
                 "tipo": "Presidente",
@@ -8,7 +11,7 @@
             },
             {
                 "tipo": "Oracion_Inicio",
-                "titulo": "Oración de inicio"
+                "titulo": "Canción 2026 y oración"
             },
             {
                 "tipo": "Tesoros",
@@ -44,12 +47,15 @@
             },
             {
                 "tipo": "Oracion_Final",
-                "titulo": "Oración de conclusión"
+                "titulo": "Canción 2026 y oración"
             }
         ]
     },
     {
         "semana": "12-18 DE ENERO",
+        "cancion_inicio": "2026",
+        "cancion_medio": "2026",
+        "cancion_final": "2026",
         "partes": [
             {
                 "tipo": "Presidente",
@@ -57,7 +63,7 @@
             },
             {
                 "tipo": "Oracion_Inicio",
-                "titulo": "Oración de inicio"
+                "titulo": "Canción 2026 y oración"
             },
             {
                 "tipo": "Tesoros",
@@ -97,12 +103,15 @@
             },
             {
                 "tipo": "Oracion_Final",
-                "titulo": "Oración de conclusión"
+                "titulo": "Canción 2026 y oración"
             }
         ]
     },
     {
         "semana": "19-25 DE ENERO",
+        "cancion_inicio": "2026",
+        "cancion_medio": "2026",
+        "cancion_final": "2026",
         "partes": [
             {
                 "tipo": "Presidente",
@@ -110,7 +119,7 @@
             },
             {
                 "tipo": "Oracion_Inicio",
-                "titulo": "Oración de inicio"
+                "titulo": "Canción 2026 y oración"
             },
             {
                 "tipo": "Tesoros",
@@ -146,12 +155,15 @@
             },
             {
                 "tipo": "Oracion_Final",
-                "titulo": "Oración de conclusión"
+                "titulo": "Canción 2026 y oración"
             }
         ]
     },
     {
         "semana": "26 DE ENERO A 1 DE FEBRERO",
+        "cancion_inicio": "2026",
+        "cancion_medio": "2026",
+        "cancion_final": "2026",
         "partes": [
             {
                 "tipo": "Presidente",
@@ -159,7 +171,7 @@
             },
             {
                 "tipo": "Oracion_Inicio",
-                "titulo": "Oración de inicio"
+                "titulo": "Canción 2026 y oración"
             },
             {
                 "tipo": "Tesoros",
@@ -199,7 +211,7 @@
             },
             {
                 "tipo": "Oracion_Final",
-                "titulo": "Oración de conclusión"
+                "titulo": "Canción 2026 y oración"
             }
         ]
     }
