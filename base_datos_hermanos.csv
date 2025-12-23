@@ -1,5 +1,5 @@
-﻿id,nombre_completo,genero,privilegio,activo,f_presidente,f_oracion,f_lectura,f_tesoros,f_perlas,f_vida,f_estudio_libro,f_lector_libro,f_discurso_est,f_demos,f_ayudante,observaciones
-62,Carolina Aguilar,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,De momento no colcar
+id,nombre_completo,genero,privilegio,activo,f_presidente,f_oracion,f_lectura,f_tesoros,f_perlas,f_vida,f_estudio_libro,f_lector_libro,f_discurso_est,f_demos,f_ayudante,observaciones
+62,Carolina Aguilar,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,
 18,Gilma Alba,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,Solicita que para este año 2025 no la coloquen mas por su situación de salud.
 7,Jorge Alba,M,SM,1,0,1,0,0,1,0,0,1,1,1,1,
 56,Eliana Alfonso,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,
@@ -96,7 +96,7 @@
 41,Isabel Salamanca,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,
 112,Elvia Silva,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,
 44,Sara Silva,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,
-6,Armando Toasura,M,ANC,1,1,1,0,0,1,1,1,0,0,0,0,
+6,Armando Toasura,M,ANC,0,0,0,0,0,0,0,0,0,0,0,0,Se cambia de congregación
 42,Elvira Toasura,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,
 31,Duvan Torres,M,PUB,1,0,0,1,0,0,0,0,0,1,1,1,
 71,Marisol Vargas,F,PUB,1,0,0,0,0,0,0,0,0,0,1,1,

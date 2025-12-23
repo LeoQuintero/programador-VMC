@@ -8,67 +8,69 @@
             {
                 "tipo": "Presidente",
                 "titulo": "Presidente de la Reunión",
-                "asignado_a": "Armando Toasura",
+                "asignado_a": "Juan Pablo Alfonso",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Oracion_Inicio",
                 "titulo": "Canción 2026 y oración",
-                "asignado_a": "Paul Garcia",
+                "asignado_a": "Andrés Cárdenas",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Tesoros",
                 "titulo": "",
-                "asignado_a": "Juan Pablo Alfonso",
+                "asignado_a": "James Cabieles",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Perlas",
                 "titulo": "Busquemos Perlas Escondidas",
-                "asignado_a": "Orlando Hernandez",
+                "asignado_a": "Manuel Céspedes",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Lectura",
                 "titulo": "Is 19:1-12 (th lección 11).",
                 "asignado_a": "Duvan Torres",
-                "origen": "MANUAL"
+                "origen": "MANUAL_HIST"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Empiece conversaciones",
                 "asignado_a": "Dora Mendoza",
-                "origen": "MANUAL"
+                "origen": "MANUAL_HIST",
+                "ayudante": "Clara Parra"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Haga revisitas",
-                "asignado_a": "Dora Mendoza",
-                "origen": "MANUAL"
+                "asignado_a": "María Montañez",
+                "origen": "MANUAL_HIST",
+                "ayudante": "Marisol Vargas"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Discurso",
-                "asignado_a": "Dora Mendoza",
-                "origen": "MANUAL"
+                "asignado_a": "Jimmy Pacheco",
+                "origen": "MANUAL_HIST"
             },
             {
                 "tipo": "Estudio_Libro",
                 "titulo": "Estudio Bíblico de Congregación",
-                "asignado_a": "Cesar Hernandez",
+                "asignado_a": "Ricardo Morales",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Lector_Libro",
                 "titulo": "Lectura del Estudio Bíblico",
-                "asignado_a": "Cristian Calderón",
+                "asignado_a": "John Herrera",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Oracion_Final",
                 "titulo": "Canción 2026 y oración",
-                "asignado_a": "Manuel Céspedes",
+                "asignado_a": "Vicente Castro",
                 "origen": "AUTO"
             }
         ]
@@ -82,7 +84,7 @@
             {
                 "tipo": "Presidente",
                 "titulo": "Presidente de la Reunión",
-                "asignado_a": "Ricardo Morales",
+                "asignado_a": "Gustavo Ramirez",
                 "origen": "AUTO"
             },
             {
@@ -94,44 +96,44 @@
             {
                 "tipo": "Tesoros",
                 "titulo": "",
-                "asignado_a": "James Cabieles",
+                "asignado_a": "Cesar Hernandez",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Perlas",
                 "titulo": "Busquemos Perlas Escondidas",
-                "asignado_a": "Vicente Castro",
+                "asignado_a": "Paul Garcia",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Lectura",
                 "titulo": "Is 23:1-14 (th lección 5).",
-                "asignado_a": "Yesid Medina",
-                "origen": "AUTO"
-            },
-            {
-                "tipo": "Maestros",
-                "titulo": " Empiece conversaciones",
                 "asignado_a": "Juan Camilo Mendoza",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Empiece conversaciones",
-                "asignado_a": "Juan Camilo Mendoza",
-                "origen": "MANUAL"
+                "asignado_a": "Elvia Silva",
+                "origen": "AUTO"
+            },
+            {
+                "tipo": "Maestros",
+                "titulo": " Empiece conversaciones",
+                "asignado_a": "Elvia Silva",
+                "origen": "MANUAL_HIST"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Haga revisitas",
-                "asignado_a": "Juan Camilo Mendoza",
-                "origen": "MANUAL"
+                "asignado_a": "Ismael Rojas",
+                "origen": "AUTO"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Discurso",
-                "asignado_a": "Juan Camilo Mendoza",
-                "origen": "MANUAL"
+                "asignado_a": "Ismael Rojas",
+                "origen": "MANUAL_HIST"
             },
             {
                 "tipo": "Estudio_Libro",
@@ -142,13 +144,13 @@
             {
                 "tipo": "Lector_Libro",
                 "titulo": "Lectura del Estudio Bíblico",
-                "asignado_a": "Guillermo Quintero",
+                "asignado_a": "Fernando Burgos",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Oracion_Final",
                 "titulo": "Canción 2026 y oración",
-                "asignado_a": "Fernando Burgos",
+                "asignado_a": "Hernando Castro",
                 "origen": "AUTO"
             }
         ]
@@ -162,67 +164,67 @@
             {
                 "tipo": "Presidente",
                 "titulo": "Presidente de la Reunión",
-                "asignado_a": "Juan Carlos Riaño",
+                "asignado_a": "Orlando Hernandez",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Oracion_Inicio",
                 "titulo": "Canción 2026 y oración",
-                "asignado_a": "Edwin Quintero",
+                "asignado_a": "Guillermo Quintero",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Tesoros",
                 "titulo": "",
-                "asignado_a": "Henry Rodriguez",
+                "asignado_a": "Edwin Quintero",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Perlas",
                 "titulo": "Busquemos Perlas Escondidas",
-                "asignado_a": "Gustavo Ramirez",
+                "asignado_a": "Juan Carlos Riaño",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Lectura",
                 "titulo": "Is 25:1-9 (th lección 10).",
-                "asignado_a": "Alejandro Niño",
+                "asignado_a": "Yesid Medina",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Empiece conversaciones",
-                "asignado_a": "Monica Hernandez",
+                "asignado_a": "Consuelo Fagua",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Haga revisitas",
-                "asignado_a": "Monica Hernandez",
-                "origen": "MANUAL"
+                "asignado_a": "Consuelo Fagua",
+                "origen": "MANUAL_HIST"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Explique sus creencias",
-                "asignado_a": "Monica Hernandez",
-                "origen": "MANUAL"
+                "asignado_a": "Paula Muñóz",
+                "origen": "AUTO"
             },
             {
                 "tipo": "Estudio_Libro",
                 "titulo": "Estudio Bíblico de Congregación",
-                "asignado_a": "Cesar Hernandez",
+                "asignado_a": "Juan Pablo Alfonso",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Lector_Libro",
                 "titulo": "Lectura del Estudio Bíblico",
-                "asignado_a": "John Herrera",
+                "asignado_a": "Cristian Calderón",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Oracion_Final",
                 "titulo": "Canción 2026 y oración",
-                "asignado_a": "Hernando Castro",
+                "asignado_a": "Henry Rodriguez",
                 "origen": "AUTO"
             }
         ]
@@ -236,56 +238,56 @@
             {
                 "tipo": "Presidente",
                 "titulo": "Presidente de la Reunión",
-                "asignado_a": "Cristian Calderón",
+                "asignado_a": "James Cabieles",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Oracion_Inicio",
                 "titulo": "Canción 2026 y oración",
-                "asignado_a": "Armando Toasura",
+                "asignado_a": "Andrés Cárdenas",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Tesoros",
                 "titulo": "",
-                "asignado_a": "Orlando Hernandez",
+                "asignado_a": "William Diaz",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Perlas",
                 "titulo": "Busquemos Perlas Escondidas",
-                "asignado_a": "Paul Garcia",
+                "asignado_a": "Ricardo Morales",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Lectura",
                 "titulo": "Is 29:13-24 (th lección 2).",
-                "asignado_a": "Daniel Gonzalez",
+                "asignado_a": "Stevan Barajas",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Empiece conversaciones",
-                "asignado_a": "Germán García",
+                "asignado_a": "Luz Marina Gonzalez",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Haga revisitas",
-                "asignado_a": "Germán García",
-                "origen": "MANUAL"
+                "asignado_a": "Luz Marina Gonzalez",
+                "origen": "MANUAL_HIST"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Haga discípulos",
-                "asignado_a": "Germán García",
-                "origen": "MANUAL"
+                "asignado_a": "Daniel Gonzalez",
+                "origen": "AUTO"
             },
             {
                 "tipo": "Maestros",
                 "titulo": " Haga discípulos",
-                "asignado_a": "Germán García",
-                "origen": "MANUAL"
+                "asignado_a": "Daniel Gonzalez",
+                "origen": "MANUAL_HIST"
             },
             {
                 "tipo": "Estudio_Libro",
@@ -296,13 +298,13 @@
             {
                 "tipo": "Lector_Libro",
                 "titulo": "Lectura del Estudio Bíblico",
-                "asignado_a": "James Cabieles",
+                "asignado_a": "John Herrera",
                 "origen": "AUTO"
             },
             {
                 "tipo": "Oracion_Final",
                 "titulo": "Canción 2026 y oración",
-                "asignado_a": "Jimmy Pacheco",
+                "asignado_a": "Vicente Castro",
                 "origen": "AUTO"
             }
         ]
